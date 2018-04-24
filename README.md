@@ -12,5 +12,8 @@
 ### 工作原理
 ![](https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-bigdata-hbase/image003.png)
 
+### HFile 结构
+![](https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-bigdata-hbase/image004.png)
+
 [IBM 相关资料](https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-bigdata-hbase/index.html)
 
